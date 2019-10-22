@@ -1,0 +1,6 @@
+int main(){
+for(;;){
+	printf("yeet");
+}
+return 0;
+}
